@@ -1,3 +1,4 @@
+![1_uuZ-h5EH76LOtJ614z-qDA](https://github.com/rishusam/Host-web-app-in-Docker-Container/assets/113242832/369aecb8-d8a8-4063-8304-bea77bfa61f3)
 # Host-web-app-in-Docker-Container
 hosting an web app on docker container using AWS aubantu Vm machine
 To create a web app container on Docker using an AWS Ubuntu instance, you'll need to follow these general steps:
